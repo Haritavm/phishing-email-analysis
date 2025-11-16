@@ -7,8 +7,7 @@ This repository documents the analysis of a phishing email sample obtained from 
 To identify phishing indicators and demonstrate how attackers use social engineering and spoofed websites to harvest sensitive information.
 
 ## 📂 Repository Structure
-phishing-email-analysis/ ├── README.md                 # Overview and repo guide ├── Phishing_Report.md        # Full analysis of the phishing email and fake login page ├── samples/ │   └── sample_email.txt      # Raw text of the phishing email ├── screenshots/ │   ├── alert_screenshot.png  # Screenshot of phishing email content │   └── fake_login_page.png   # Screenshot of credential harvesting page
-
+```phishing-email-analysis/ ├── README.md ├── Phishing_Report.md ├── samples/ │   └── sample_email.txt ├── screenshots/ │   ├── alert_screenshot.png │   ├── fake_login_page.png │   └── phishing_collage.png```
 
 ## 🔍 Key Findings
 - Spoofed sender domain (`webnotifications.net`)
